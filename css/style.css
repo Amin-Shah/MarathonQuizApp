@@ -1,0 +1,40 @@
+ body {
+            background: center;
+            text-align: center;
+            
+        }
+        
+        div.main {
+            margin: 11em auto;
+            width: 290px;
+            padding: 5px 60px 5px 60px;
+            background-color: beige;
+            border: 1px solid #000;
+        }
+        
+        h3 {
+            font-family: sans-serif;
+            padding: 10px;
+            width: 100%;
+            background-color: darkolivegreen;
+        }
+        
+        div.second {
+            padding: 20px;
+        }
+        
+        input {
+            margin: 10px;  
+            font-size: 13px;
+            font-weight: bold;
+            padding: 8px 50px 8px 10px;
+            text-align: center;
+        }
+        
+        /*img,*/
+        button {
+            font-size: 17px;
+            font-weight: bold;
+            padding: 8px 50px 8px 50px;
+            margin: 10px;
+        }
